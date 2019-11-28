@@ -1,9 +1,9 @@
 # docker-fluentd
 
-* Fluend on Apline configured for shipping to Elastic
+* Fluentd on Ubuntu configured for shipping to Elastic
 
 ## Versions
-- Alpine linux
+- Ubuntu linux
 - Fluentd ${FLUENTD_VERSION}
 
 ## Usage

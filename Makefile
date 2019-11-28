@@ -1,6 +1,6 @@
-IMAGE_VERSION=1.7.3-2019.10.10
-IMAGE_NAME=chrisgarrett/fluentd
-FLUENTD_VERSION=v1.7.3-1.0
+IMAGE_VERSION=1.7.4-2019.11.28
+IMAGE_NAME=cenozon/fluentd
+FLUENTD_VERSION=v1.7.4-debian-2.0
 
 all: build
 
